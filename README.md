@@ -25,6 +25,33 @@ For attribution in academic contexts, please cite this work as:
 }
 ```
 
+## FAIR Research Data Management
+
+### Findable
+- **Data Archiving**: Findable data can be indexed in public repositories, making it Accessible
+<!-- Dataverse, Zenodo -->
+- **Data Reusing**: Reusable data must be uniquly referenced, making it Findable. 
+<!-- cite paper, cite data, cite software, adding the persistent identifier-->
+
+### Accessible
+- **Data Access Protocols**: Interoperable data can be retrieved with an open protocol, making it Accesible
+<!-- Link to access protocols, including open access -->
+- **Terms of Use (for machines)**: Accessible data contains machine friendly terms of use, making it Reusable.
+<!-- Link to terms of use -->
+
+### Interoperable
+- **Rich Metadata**: Interoperable metadata is semantically described with ontology terms (e.g. Dublin Core), making it Findable.
+<!-- Link to terms of use -->
+- **Data Descriptions (for machines)**: Interoperable data is adequately described, machine friendly, making it Reusable
+<!-- Link to the rdf file -->
+
+### Reusable
+- **Terms of Use (for humans)**: Accessible data contains human friendly terms of use, making it Reusable.
+<!-- Link to terms of use, Licence -->
+- **Data Descriptions (for humans)**: Interoperable data is adequately described, human friendly, making it Reusable 
+<!-- Link to codebook -->
+
+
 ## License
 
 This repository is licensed under the terms of the [LGPL-2.1](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html) license.
